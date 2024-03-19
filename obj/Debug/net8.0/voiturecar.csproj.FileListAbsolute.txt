@@ -1,0 +1,14 @@
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.AssemblyInfoInputs.cache
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.AssemblyInfo.cs
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.csproj.CoreCompileInputs.cache
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\bin\Debug\net8.0\voiturecar.exe
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\bin\Debug\net8.0\voiturecar.deps.json
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\bin\Debug\net8.0\voiturecar.runtimeconfig.json
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\bin\Debug\net8.0\voiturecar.dll
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\bin\Debug\net8.0\voiturecar.pdb
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.dll
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\refint\voiturecar.dll
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.pdb
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\voiturecar.genruntimeconfig.cache
+C:\Users\nenea\Documents\Boulot\2ème Année\Langage de Programmation Intermédiaire\2\voiturecar\obj\Debug\net8.0\ref\voiturecar.dll
